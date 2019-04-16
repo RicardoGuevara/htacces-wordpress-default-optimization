@@ -1,2 +1,2 @@
-# htacces-wordpress-default-optimization
-optimización del fichero htaccess
+# Optimizacion de fichero HTAcces enfocado a wordpress
+htaccess unicamente es funcional en servidores Apache
